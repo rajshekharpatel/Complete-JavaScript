@@ -1,0 +1,23 @@
+.boxes{
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+    color: rgb(40, 51, 8);
+    background-color: brown;
+}
+
+.circle{
+    border: 2px solid aqua;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin: 45px;
+    background-color: blue;
+}
+
+.square{
+    border: 2px solid burlywood;
+    width: 140px;
+    margin: 45px;
+    background-color: aquamarine;
+}
